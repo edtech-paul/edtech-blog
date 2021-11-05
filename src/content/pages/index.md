@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: 재능e아카데미
 tagline: 에듀테크실
-featuredImage: https://media.istockphoto.com/photos/schoolgirl-studying-with-video-online-lesson-at-home-picture-id1285962627?b=1&k=20&m=1285962627&s=170667a&w=0&h=PaplJh7fQhrHOoprLvDP9HbMMER9jo74_jcQSGXryWg=
+featuredImage: /assets/educations_unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
